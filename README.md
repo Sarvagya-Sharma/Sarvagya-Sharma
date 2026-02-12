@@ -2,7 +2,7 @@
 
 🎓A Final year B.Tech Computer Science & Engineering student.
 
-💡 Passionate about Data Science, AI/ML, and Analytics.
+💡 Passionate about Data Science and AI/ML.
 
 📍 Based in India | Open to internships & collaborative projects
 
@@ -13,13 +13,7 @@
 
 💻 Experienced in Python, SQL, Scikit-learn, Pandas, NumPy and Dataiku platform for DS/ML pipelines.
 
-📊 Built projects in Image Captioning and Predictive Analytics
-
-🌱 Currently learning MLOps and advanced NLP techniques
-
 🛠️ Familiar with FastAPI, PyTorch, and model deployment workflows
-
-🧠 Problem-solving mindset with hands-on experience in LeetCode and SQL challenges
 
 ## Skills & Technologies
 ### 🛠️ Skills & Technologies  
@@ -59,14 +53,6 @@
   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
-
-
-
-
-
-## Top Projects
-
-- [Image-Captioning-With-Speech-Synthesis](https://github.com/Sarvagya-Sharma/Image-Captioning-With-Speech-Synthesis): An end-to-end deep learning project that generates textual captions from images and converts them into human-like speech. ⭐ 0 Stars | Language: Jupyter Notebook
 
 
 ## Connect with Me
